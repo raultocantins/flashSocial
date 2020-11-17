@@ -4,6 +4,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+ position: fixed; 
+  width: 100%;
+  top: 0;
+  
 }
 .group-buttons-appbar{
     display: flex;
