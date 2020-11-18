@@ -51,19 +51,20 @@ margin-top: 100px;
     background-color:rgba(153, 20, 20, 0.9);
     transition: all ease 0.2s;
 }
-.img-section3 {
+.img-section3 img {
     animation-name: smoll;
     animation-duration: 2s;
-    animation-delay: 0.5s;
+    
     animation-fill-mode: forwards;
 }
 @keyframes smoll{
-    from{width: 50%;
-opacity: 0.5;
-margin-left: 0px!important;
+    from{
+        opacity: 0;
+
+
     }
     to{
-        margin-left: 150px!important;
-opacity: 1;
+        opacity: 1;
+
     }
 }
