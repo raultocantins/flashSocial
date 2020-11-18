@@ -17,3 +17,27 @@
     justify-content: center;
     margin: 15px 0px;
 }
+
+
+.section8 svg{
+    position: absolute;
+    transform: rotate(-120deg);
+    margin-left: -270px;
+}
+#player{
+    transform: rotate(320deg);
+    position: absolute;
+    margin-left: -860px;
+    margin-top: -170px;
+    font-family: ReklameScriptW00-Medium;
+}
+.bloco-section8{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+    align-items: center;
+}
+
+@font-face {font-family: "ReklameScriptW00-Medium"; src: url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.eot"); src: url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.woff") format("woff"), url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.svg#ReklameScriptW00-Medium") format("svg"); }

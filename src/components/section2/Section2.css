@@ -22,6 +22,8 @@
   justify-content: left;
   align-items: center;
   text-align: left;
+  z-index: 5;
+  margin-right: 50px;
   
 }
 .section2-imgs {
@@ -78,5 +80,5 @@ position: absolute;
 
 
 .bloco-section2{
-  width: 60%;
+  width: 40%;
 }
