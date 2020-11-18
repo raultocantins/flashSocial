@@ -1,5 +1,6 @@
 import React from "react";
 import "./Appbar.css";
+import "./AppbarResponsive.css";
 import ImgAppbar from "../../assets/Logo Flash Social .webp";
 export default function Appbar() {
   return (
@@ -7,9 +8,8 @@ export default function Appbar() {
       <div className="appbar-img">
         <a href='/'>
         <img alt="imagem appbar" src={ImgAppbar}/>
-        </a>
-       
-      </div>
+        </a>       
+      </div>      
       <div className="group-buttons-appbar">
         <a href="https://flashsocial.net/painel/signup">Login</a>
         <a href="https://flashsocial.net/painel/signup">Começe Já</a>

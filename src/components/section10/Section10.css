@@ -85,3 +85,24 @@
      justify-content: center;
      align-items: center;
   }
+  @media (max-width:600px){
+     .section10{
+        height: auto;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+
+     }
+     .bloco-section10{       
+        width: 100%;
+        display: flex;
+flex-wrap: wrap;
+
+
+     }
+     .box1-section10,.box2-section10,.box3-section10{
+        width: 30%;     
+        padding: 20px 40px;    
+     }
+  }

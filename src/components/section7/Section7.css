@@ -31,3 +31,9 @@
     background-color:rgba(153, 20, 20, 0.9);
     transition: all ease 0.2s;
 }
+
+@media(max-width:600px){
+    .section7{
+        display: none;
+    }
+}

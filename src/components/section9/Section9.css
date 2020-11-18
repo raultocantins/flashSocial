@@ -40,3 +40,19 @@
     justify-content: center;
     align-items: center;
 }
+@media (max-width:600px){
+    .section9{
+        height: auto;
+margin-top: 50px;
+    }
+    .bloco-section9{
+        flex-direction: column;flex-wrap: wrap;    }
+    .bloco1-section9,.bloco2-section9,.bloco3-section9{
+        padding: 50px 0px;
+       width: 100%;
+       margin: 0;
+        }
+        .section9 span{
+            font-size: 1.2rem;
+        }
+}

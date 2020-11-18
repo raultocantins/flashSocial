@@ -14,3 +14,32 @@
 .section1 p {
     font-size: 14px;
 }
+@media (max-width: 600px){
+    .section1{
+        width: 100%;
+        padding:50px 0pc;
+        display: flex;      
+        justify-content: center;
+        align-items: center;
+       
+       
+    }
+    .bloco-section1{
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+   
+    .section1 p{
+        font-size: 1.1rem;      
+      
+    
+        
+    }
+    .section1 strong{
+        font-size: 1.1rem;    
+           }
+}

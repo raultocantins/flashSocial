@@ -4,7 +4,6 @@ export default function Section10() {
     return (
         <section className="section10">
             <div className="bloco-section10">
-
            
             <div className="box1-section10">
                 <span>+240.000 </span>

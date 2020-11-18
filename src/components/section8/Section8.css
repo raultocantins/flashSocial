@@ -41,3 +41,33 @@
 }
 
 @font-face {font-family: "ReklameScriptW00-Medium"; src: url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.eot"); src: url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.woff") format("woff"), url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/c017c9efb81f32559dee68fa54edbde4.svg#ReklameScriptW00-Medium") format("svg"); }
+
+@media(max-width:600px){
+    .section8{
+        height: auto;
+        margin-top: 100px;
+    }
+    .text-section8{
+        width: 100%;
+    }
+    .reactplayer {
+    width: 100%!important;
+    height: 100%!important;
+    }
+    .reactplayer iframe{        
+        height: 300px!important;
+      
+        }
+        #player{
+            transform: rotate(20deg)!important;
+            position:relative;
+            margin: 0px -290px 0px 0px;
+            margin-bottom: 50px;   
+        }
+    .section8 svg{
+        transform: rotate(0deg)!important;
+        position: relative;
+        margin: -80px 0px 10px -50px;
+
+    }
+}

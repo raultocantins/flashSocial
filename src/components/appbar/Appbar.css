@@ -58,3 +58,46 @@ font-weight: 500;
     background-color:rgba(153, 20, 20, 0.9);
    transition: all ease 0.2s;
 }
+
+
+@media (max-width: 600px) {
+    .appbar{
+            height:78px;
+        width: 100%;
+        display: flex;
+      
+    
+       
+       
+    }
+    .group-buttons-appbar{
+flex-direction: column;
+width: 50%;
+margin: 0;
+padding: 0;
+height: 100%;
+
+
+    }
+    .appbar-img {
+     width: 50%;
+     margin: 0px;
+    }
+    .appbar-img img{
+      height:100%;
+      width: 70%;
+      margin: 10px;
+     
+    }
+ 
+    .group-buttons-appbar a:nth-child(1),.group-buttons-appbar a:nth-child(2){
+
+      margin: 5px; 
+      width: 99px;
+      height: 26px;
+      padding: 0;
+            }
+         
+            
+
+}
