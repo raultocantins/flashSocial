@@ -20,7 +20,7 @@ import Section16 from '../src/components/section16/Section16'
 import './App.css';
 
 function App() {
-  document.body.style.zoom = "70%"
+  document.body.style.zoom = "80%"
   return (
     <div className="App">
  <Appbar/>
@@ -34,10 +34,11 @@ function App() {
  <Section8/>
  <Section9/>
  <Section10/>
- <Section11/>
  <Section12/>
- <Section15/>
+ <Section11/>
+ <Section9/>
   <Section14/> 
+ <Section15/>
   <Section16/>
     </div>
   );
