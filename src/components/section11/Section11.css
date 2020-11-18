@@ -1,5 +1,5 @@
-.section7{
-    margin-top: 70px;
+.section11{
+   
     height: 50px;
     background-color: #2b2b24;
     color:#fff;
@@ -8,13 +8,13 @@
     align-items: center;
    
 }
-.section7 strong{
+.section11 strong{
     font-size: 14px;
 }
-.section7 p {
+.section11 p {
     font-size: 14px;
 }
-.section7  a{
+.section11  a{
     height: 20px;
     background-color:rgba(15, 188, 113, 0.9);    
     border-radius: 50px;
@@ -27,7 +27,7 @@
     font-weight: 500;   
 
 }
-.section7 a:hover{
+.section11 a:hover{
     background-color:rgba(153, 20, 20, 0.9);
     transition: all ease 0.2s;
 }

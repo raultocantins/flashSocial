@@ -9,7 +9,10 @@ import Section6 from '../src/components/section6/Section6'
 import Section7 from '../src/components/section7/Section7'
 import Section8 from '../src/components/section8/Section8'
 import Section9 from '../src/components/section9/Section9'
-
+import Section10 from '../src/components/section10/Section10'
+import Section11 from '../src/components/section11/Section11'
+import Section15 from '../src/components/Section15/Section15'
+import Section16 from '../src/components/section16/Section16'
 //import css
 import './App.css';
 
@@ -26,6 +29,10 @@ function App() {
  <Section7/>
  <Section8/>
  <Section9/>
+ <Section10/>
+ <Section11/>
+ <Section15/>
+  <Section16/>
     </div>
   );
 }

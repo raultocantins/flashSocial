@@ -52,8 +52,9 @@ font-weight: 500;
     
 }
 .appbar-img img{
-    margin-left: 180px;
+   margin-left: -50px;
 }
 .group-buttons-appbar > a:hover{
     background-color:rgba(153, 20, 20, 0.9);
+   transition: all ease 0.2s;
 }

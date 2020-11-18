@@ -22,6 +22,7 @@ margin-top: 100px;
 }
 .img-section3 {
     width: 60%;
+  
 
 }
 .text-box{
@@ -48,4 +49,21 @@ margin-top: 100px;
 }
 .btn-section3:hover{
     background-color:rgba(153, 20, 20, 0.9);
+    transition: all ease 0.2s;
+}
+.img-section3 {
+    animation-name: smoll;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+    animation-fill-mode: forwards;
+}
+@keyframes smoll{
+    from{width: 50%;
+opacity: 0.5;
+margin-left: 0px!important;
+    }
+    to{
+        margin-left: 150px!important;
+opacity: 1;
+    }
 }

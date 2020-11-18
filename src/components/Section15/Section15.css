@@ -1,0 +1,32 @@
+.section15{
+    height: 617px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bloco1-section15,.bloco2-section15,.bloco3-section15{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 418px;
+    padding: 50px;
+    
+}
+.section15 img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+}
+.section15 span{
+    letter-spacing: normal;
+    font-size: 14px;
+    opacity: 0.9;
+    margin-bottom: 15px;
+
+}
+.section15 h2{
+    font-size: 26px;
+    color: #9b28ff;
+}
