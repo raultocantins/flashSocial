@@ -17,6 +17,7 @@ import Section16 from '../src/components/section16/Section16'
 import './App.css';
 
 function App() {
+  document.body.style.zoom = "70%"
   return (
     <div className="App">
  <Appbar/>
