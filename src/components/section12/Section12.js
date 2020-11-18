@@ -122,7 +122,7 @@ export default function Section12() {
         >
           Facebook
         </span>
-        <span>Curtidas, seguidores, comentários e muito mais</span>
+        <span>Visualizações, Inscritos, Likes, Comentários</span>
       </div>
 
       <div className="bloco-tiktok-section12">
