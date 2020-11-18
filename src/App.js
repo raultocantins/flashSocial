@@ -16,7 +16,7 @@ import Section13 from '../src/components/section13/Section13'
 import Section14 from '../src/components/section14/Section14'
 import Section15 from '../src/components/Section15/Section15'
 import Section16 from '../src/components/section16/Section16'
-
+import Whatsapp from '../src/components/whats/Whats'
 //import css
 import './App.css';
 
@@ -24,6 +24,7 @@ function App() {
   document.body.style.zoom = "80%"
   return (
     <div className="App">
+      
  <Appbar/>
  <Section1/>
  <Section2/>
@@ -39,9 +40,10 @@ function App() {
  <Section11/>
  <Section13/>
   <Section14/> 
-
  <Section15/>
   <Section16/>
+  <Whatsapp/>
+
     </div>
   );
 }
