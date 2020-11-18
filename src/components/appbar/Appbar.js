@@ -5,7 +5,10 @@ export default function Appbar() {
   return (
     <section className="appbar">
       <div className="appbar-img">
-        <img alt="imagem appbar" src={ImgAppbar} />
+        <a href='/'>
+        <img alt="imagem appbar" src={ImgAppbar}/>
+        </a>
+       
       </div>
       <div className="group-buttons-appbar">
         <a href="/login">Login</a>

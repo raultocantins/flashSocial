@@ -2,7 +2,7 @@
     overflow: hidden;
   background: linear-gradient(
     to right,
-    rgb(221, 160, 229, 5) 10%,
+    rgb(212, 91, 228,0.8) 20%,
     rgb(179, 92, 190) 50%,
     rgb(108, 37, 135)
   );
@@ -15,18 +15,20 @@
 .section2-text {
   position: relative;
   margin-top: 100px;
-  width: 100%;
+  width: 80%;
   color: #fff;
   flex-wrap: wrap;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   text-align: left;
-  z-index: 99;
+  
 }
 .section2-imgs {
   width: 100%;
   color: #fff;
+
+  
 }
 .section2-text span:nth-child(1) {
   color: #fff;
@@ -38,22 +40,23 @@
   color: #fff;
   font-size: 14px;
 }
-.container-section2 {
-  width: 50%;
-}
+
 .svg-mouse {
   height: 50px;
   transform: rotate(180deg);
   margin-top: 50px;
   margin-right: 170px;
+  margin-left: 100px;
 }
 
 .container-section2 {
+  width: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
   position: static;
   box-shadow: 0 0 0 #000;
+
 }
 .img-girl2 {
   position: relative;
@@ -64,11 +67,12 @@
 }
 
 .img-fundo {
-  position: absolute;
+position: absolute;
   z-index: 0;
-  width: 829px;
+  width: 600px;
   height: 480px;    
-    margin-left: -120px;
+    margin-left: -50px;
+   
 }
 
 

@@ -1,0 +1,18 @@
+.section5{
+    height: 372px;
+    background-color: #e4d0f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-right-section5{
+    width: 30%;
+    text-align: left;
+    
+}
+.text-left-section5{
+    width: 30%;
+    text-align: left;
+    margin-right: 150px;
+    
+}

@@ -39,7 +39,7 @@ export default function Section2() {
             </g>
           </svg>
         </div>
-        <div className="section2-imgs">
+        <div className="section2-imgs" >
           
             <img src={Fundo} alt="fundo-img" className="img-fundo" />
             <img src={Girl2} alt="girl2-img" className="img-girl2" />
