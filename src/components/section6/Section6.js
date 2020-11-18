@@ -12,6 +12,9 @@ import Icon5 from '../../assets/icon5.webp'
 export default function Section6() {
     return (
         <section className="section6">
+            <div className="bloco-section6">
+
+           
             <div className="imgs-section6">
                 <img src={Slash} alt="fundo" className="fundo-section6" />
                 <img src={Girl6} alt="girl6" className="girl-section6" />
@@ -39,6 +42,7 @@ Basta  <strong>escolher o pacote</strong> de sua preferência e seguir nossas <s
                     <img src={Icon5} alt="midias sociais" />
                 </div>
                 <img src={SlashBottom} alt="bottom" className="slashbottom" />
+            </div>
             </div>
         </section>
     )

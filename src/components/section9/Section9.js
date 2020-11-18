@@ -3,10 +3,14 @@ import './Section9.css'
 export default function Section9() {
     return (
         <section className="section9">
+            
             <div className="text-section9">
 
                 <span style={{fontSize:'33px',color:'#2b2b24'}}><strong>PORQUE</strong> A PLATAFORMA DA FLASH SOCIAL?</span>
             </div>
+
+            <div className="bloco-section9">
+           
             <div className="bloco1-section9">
                 <div className="svg">
 
@@ -52,6 +56,7 @@ export default function Section9() {
                 <span>
                     Você pode ter certeza de que terá suporte 24 horas por dia após fazer o pedido na Flash Social. <strong>Entre em contato conosco a qualquer momento</strong> para obter atualizações sobre seu pedido ou resolver problemas ou dúvidas.
 </span>
+            </div>
             </div>
         </section>
 

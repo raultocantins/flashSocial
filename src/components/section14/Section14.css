@@ -14,13 +14,15 @@
     width: 80%;
 }
 .blocoleft-section14{
-    width: 70%;
+    width: 60%;
+    margin-right: 600px;
+
 }
 
 .blocoleft-section14 img:nth-child(1){
     position: absolute;
     z-index: 0;
-    left: 150px;
+ 
     margin-top: -50px;
     height: 481px;
     width: 831px;
@@ -29,7 +31,7 @@
 .blocoleft-section14 img:nth-child(2){
     position: absolute;
     z-index: 5;
-    left: 280px;
+ 
     height: 558px;
     width: 703px;    
 
@@ -40,9 +42,9 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    width: 341px;
+    width: 40%;
     height: 100%;
-    margin-left: -400px;
+   
 
 }
 .blocoright-section14 span{
@@ -55,4 +57,8 @@
 .blocoright-section14 span:nth-child(1){
 margin-top: 30px;
 
+}
+.bloco-section14{
+    width: 90%;
+    position: absolute;
 }

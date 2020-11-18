@@ -12,6 +12,7 @@ import Section9 from '../src/components/section9/Section9'
 import Section10 from '../src/components/section10/Section10'
 import Section11 from '../src/components/section11/Section11'
 import Section12 from '../src/components/section12/Section12'
+import Section13 from '../src/components/section13/Section13'
 import Section14 from '../src/components/section14/Section14'
 import Section15 from '../src/components/Section15/Section15'
 import Section16 from '../src/components/section16/Section16'
@@ -36,8 +37,9 @@ function App() {
  <Section10/>
  <Section12/>
  <Section11/>
- <Section9/>
+ <Section13/>
   <Section14/> 
+
  <Section15/>
   <Section16/>
     </div>

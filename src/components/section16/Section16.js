@@ -4,6 +4,9 @@ import Logo from '../../assets/Logo Flash Social .webp'
 export default function Section16() {
     return (
         <section className="section16">
+            <div className="bloco-section16">
+
+           
             <div className="box1-section16">
                 <div className="img-box1-section16">
                     <img src={Logo} alt="logo" />
@@ -35,11 +38,11 @@ export default function Section16() {
                 <span><strong>A atualização do Instagram, Facebook, Youtube, é totalmente voltada para combate a processos artificiais e não afetará os serviços da Flash social</strong>.
 
 <p style={{ marginTop: '0px' }}>Se você tiver alguma dúvida sobre esta atualização, não hesite em entrar em contato conosco.</p></span>
-                <span style={{ fontSize: '17px', fontStyle: "italic" }}>
+                <span style={{ fontSize: '17px', fontStyle: "italic",marginLeft:"auto",marginRight:"auto" }}>
                     <strong > CONTATO </strong>       WHATSAPP: +55 63 99243-2379      SUPORTE: contato@flashsocial.com.br    <strong>Atendimento 24h</strong>
                 </span>
 
-                <span className="footer" style={{ letterSpacing:'normal', width: '400px',marginTop:'30px', marginBottom: "70px", color: "#060605", fontSize: '11px' }}>
+                <span className="footer" style={{ letterSpacing:'normal', width: '400px',marginTop:'30px', marginBottom: "70px", color: "#060605", fontSize: '11px' ,marginLeft:"auto",marginRight:"auto"}}>
                     <a href="https://flashsocial.com.br/#" style={{ outline: 'none', textDecoration: "none", color: "#060605" }}>
 
 
@@ -50,6 +53,7 @@ export default function Section16() {
                 </span>
 
 
+            </div>
             </div>
         </section>
     )

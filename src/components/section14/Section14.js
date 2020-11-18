@@ -5,6 +5,9 @@ import Fundo16 from "../../assets/fundo.webp";
 export default function Section16() {
   return (
     <section className="section14">
+      <div className="bloco-section14">
+
+      
       <div className="box-section14">
         <div className="blocoleft-section14">
           <img src={Fundo16} alt="notebook-section-16" />
@@ -68,6 +71,7 @@ export default function Section16() {
             FINALIZE A COMPRA E RECEBA SUAS INTERAÇÕES
           </span>
         </div>
+      </div>
       </div>
     </section>
   );

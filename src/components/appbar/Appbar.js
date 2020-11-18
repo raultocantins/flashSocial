@@ -11,8 +11,8 @@ export default function Appbar() {
        
       </div>
       <div className="group-buttons-appbar">
-        <a href="/login">Login</a>
-        <a href="/comeceja">Começe Já</a>
+        <a href="https://flashsocial.net/painel/signup">Login</a>
+        <a href="https://flashsocial.net/painel/signup">Começe Já</a>
       </div>
     </section>
   );

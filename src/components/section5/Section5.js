@@ -3,6 +3,9 @@ import './Section5.css'
 export default function Section5() {
     return (
         <section className="section5">
+            <div className="bloco-section5">
+
+           
             <div className="text-left-section5">
                 <span style={{ fontSize: '25px', color: "#6e6e67", fontWeight: "700" }}>
                     garantia de
@@ -23,6 +26,7 @@ export default function Section5() {
                     <strong>Usamos perfis 100% de pessoas reais e por isso nunca seremos banidos.</strong> Isso significa que o número de curtidas, comentários, visualizações, seguidores que entregamos em sua conta, nunca diminuirá e <strong>você pode ter certeza de que se tornará ainda mais popular</strong> com o passar do tempo.
                     </span>
 
+            </div>
             </div>
         </section>
     )

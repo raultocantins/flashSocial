@@ -34,3 +34,9 @@
 .section9 span{
     font-size: 14px;
 }
+.bloco-section9{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
