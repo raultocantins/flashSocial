@@ -14,7 +14,7 @@ export default function Section16() {
           <span style={{ fontSize: "44px", color: "#fff", fontWeight: "bold" }}>
             01
           </span>
-          <span style={{ fontSize: "15px", color: "#fff",fontWeight:'800'}}>
+          <span style={{ fontSize: "15px", color: "#fff",fontWeight:'bold'}}>
             ESCOLHA O SERVIÇO E A QUANTIDADE DESEJADA
           </span>
           <svg
@@ -39,7 +39,7 @@ export default function Section16() {
           <span style={{ fontSize: "44px", color: "#fff", fontWeight: "bold" }}>
             02
           </span>
-          <span style={{ fontSize: "15px", color: "#fff", fontWeight:'800' }}>
+          <span style={{ fontSize: "15px", color: "#fff", fontWeight:'bold' }}>
             ADICIONE CRÉDITO NA PLATAFORMA
           </span>
           <svg
@@ -64,7 +64,7 @@ export default function Section16() {
           <span style={{ fontSize: "44px", color: "#fff", fontWeight: "bold" }}>
             03
           </span>
-          <span style={{ fontSize: "15px", color: "#fff", fontWeight:'800'}}>
+          <span style={{ fontSize: "15px", color: "#fff", fontWeight:'bold'}}>
             FINALIZE A COMPRA E RECEBA SUAS INTERAÇÕES
           </span>
         </div>
