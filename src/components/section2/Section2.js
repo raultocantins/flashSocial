@@ -7,6 +7,8 @@ import Girl2 from "../../assets/girl2.webp";
 export default function Section2() {
   return (
     <section className="section2">
+      <div className="bloco-section2">
+  
       <div className="container-section2">
         <div className="section2-text">
           <span>
@@ -45,6 +47,8 @@ export default function Section2() {
             <img src={Girl2} alt="girl2-img" className="img-girl2" />
        
         </div>
+      </div>
+            
       </div>
     </section>
   );
