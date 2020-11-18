@@ -1,0 +1,19 @@
+.section8{
+    height: 496px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+    background: url("https://static.wixstatic.com/media/dba454_605f6528f2494b8d878ae6df1293b8ef~mv2.jpg/v1/fill/w_1007,h_372,al_c,q_85,usm_0.66_1.00_0.01/dba454_605f6528f2494b8d878ae6df1293b8ef~mv2.webp");
+    background-size: cover;
+   overflow: hidden;
+   
+}
+.text-section8{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px 0px;
+}

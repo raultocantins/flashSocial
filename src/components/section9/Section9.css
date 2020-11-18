@@ -1,0 +1,36 @@
+.section9{
+    height: 479px;
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.bloco1-section9{
+    width: 25%;
+    margin-right: 50px;
+    text-align: center;
+}
+.bloco2-section9{
+    width: 25%;
+    margin-right: 50px;
+    text-align: center;
+}
+.bloco3-section9{
+    width: 25%;
+    text-align: center;
+}
+.text-section9{
+    width: 100%;
+    
+}
+.svg{
+    width: 100%;
+}
+.svg svg{
+   color: #9b28ff;
+}
+.section9 span{
+    font-size: 14px;
+}
