@@ -6,6 +6,11 @@
    
 
 }
+.box-section3{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
 .text-section3{
     display: flex;
     justify-content: left;

@@ -4,6 +4,9 @@ import Smartphone from '../../assets/smartphone.webp'
 export default function Section3() {
     return (
         <section className="section3">
+            <div className="box-section3">
+
+         
             <div className="img-section3">
                 <img src={Smartphone} alt="img-section3" />
             </div>
@@ -17,6 +20,7 @@ MAIS COMPLETA DO BRASIL</span>
                     mídias sociais para conseguir as <strong style={{ color: "#9b28ff" }}>curtidas, comentários, seguidores, visualizações </strong>que você precisa.</span>
                     <a href="/cadastrar" className="btn-section3">Cadastrar</a>
                 </div>
+            </div>
             </div>
         </section>
     )

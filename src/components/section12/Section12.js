@@ -6,7 +6,7 @@ import Man from "../../assets/man.webp";
 export default function Section12() {
   return (
     <section className="section12">
-          <span >
+          <span style={{fontWeight:"700"}}>
           ESCOLHA SERVIÇOS PARA{" "}
           <strong style={{color:"#9b28ff"}}>
             FACEBOOK, INSTAGRAM, TIKTOK, YOUTUBE, TWITTER, SPOTFY, TWITCH,
