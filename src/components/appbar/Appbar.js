@@ -1,6 +1,6 @@
 import React from "react";
 import "./Appbar.css";
-import ImgAppbar from "../../assets/Logo Flash Social .webp";
+import ImgAppbar from "../../assets/Logo Flash Social.png";
 export default function Appbar() {
   return (
     <section className="appbar">

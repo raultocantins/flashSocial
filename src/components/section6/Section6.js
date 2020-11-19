@@ -1,13 +1,13 @@
 import React from 'react'
 import './Section6.css'
-import Slash from '../../assets/slash.webp'
-import Girl6 from '../../assets/girl6.webp'
-import SlashBottom from '../../assets/slashbottom.webp'
-import Icon1 from '../../assets/icon1.webp'
-import Icon2 from '../../assets/icon2.webp'
-import Icon3 from '../../assets/icon3.webp'
-import Icon4 from '../../assets/icon4.webp'
-import Icon5 from '../../assets/icon5.webp'
+import Slash from '../../assets/slash.png'
+import Girl6 from '../../assets/girl6.png'
+import SlashBottom from '../../assets/slashbottom.png'
+import Icon1 from '../../assets/icon1.png'
+import Icon2 from '../../assets/icon2.png'
+import Icon3 from '../../assets/icon3.png'
+import Icon4 from '../../assets/icon4.png'
+import Icon5 from '../../assets/icon5.png'
 
 export default function Section6() {
     return (
