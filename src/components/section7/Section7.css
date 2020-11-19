@@ -16,7 +16,11 @@
 }
 .section7  a{
     height: 20px;
-    background-color:rgba(15, 188, 113, 0.9);    
+    background: repeating-linear-gradient(
+        45deg,
+        rgba(15, 188, 113, 0.575) ,
+        rgba(15, 188, 113, 0.9) 10px
+        ); 
     border-radius: 50px;
     margin: 10px;
     color: #fff;

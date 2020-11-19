@@ -73,6 +73,24 @@
   justify-content: center;
   
 }
+.group-midias:hover{
+animation-name: slow;
+animation-duration: 2s;
+animation-fill-mode: forwards;
+}
+
+
+
+
+@keyframes slow{
+from{
+opacity: 0;
+}to{
+opacity: 1;
+}
+}
+
+
 @media (max-width:600px){
     .section6{
         height: auto;

@@ -17,9 +17,15 @@
     width: 50%;
 
 }
-.group-buttons-appbar > a{
+.group-buttons-appbar > a:nth-child(1){
     height: 20px;
-    background-color:#9B28FF;    
+    
+    background: repeating-linear-gradient(
+45deg,
+#9b28ff93 ,
+#9B28FF 10px
+);
+
     border-radius: 50px;
     margin: 10px;
     color: #fff;
@@ -32,7 +38,13 @@
 }
 
 .group-buttons-appbar > a:nth-child(2){   
-    background-color:rgba(15, 188, 113, 0.9);
+    
+    background: repeating-linear-gradient(
+45deg,
+rgba(15, 188, 113, 0.575) ,
+rgba(15, 188, 113, 0.9) 10px
+);
+
     height: 20px;     
     border-radius: 50px;
     margin: 10px;
