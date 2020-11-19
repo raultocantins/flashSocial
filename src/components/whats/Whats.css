@@ -10,6 +10,9 @@
     width: 66px;
     
 }
+.whatsapp span{
+    display: none;
+}
 @media (max-width:600px){
     .whatsapp{
         right: 0;
