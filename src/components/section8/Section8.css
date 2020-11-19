@@ -51,6 +51,7 @@
     }
     .text-section8{
         width: 100%;
+        margin-bottom: 60px;
     }
     .reactplayer {
     width: 100%!important;
@@ -65,7 +66,7 @@
             transform: rotate(20deg)!important;
             position:relative;
             margin: 0px -290px 0px 0px;
-            margin-bottom: 50px;   
+            margin-bottom: 0px;   
         }
     .section8 svg{
         transform: rotate(0deg)!important;
