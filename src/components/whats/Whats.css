@@ -10,3 +10,24 @@
     width: 66px;
     
 }
+@media (max-width:600px){
+    .whatsapp{
+        right: 0;
+        height: auto;
+        background-color:#21d366;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        z-index: 99;
+        bottom: 0;
+        color: #fff;
+    }
+    .whatsapp span{
+        
+        font-size: 1.4rem;
+    }
+}

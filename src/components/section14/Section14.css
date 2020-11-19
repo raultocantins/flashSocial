@@ -62,3 +62,40 @@ margin-top: 30px;
     width: 90%;
     position: absolute;
 }
+@media (max-width:600px){
+    .section14{
+        height:800px;
+ margin-top: 300px;
+
+    }
+    .bloco-section14{
+        width: 100%;
+    }
+
+    .box-section14{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+  
+    }
+    .blocoleft-section14 img:nth-child(1){
+     position: relative;
+     height: 300px;
+     margin-top: -300px;
+     width: 100%;
+    }
+    .blocoleft-section14 img:nth-child(2){
+        position: relative;
+        height: 400px;
+        margin-top: -200px;
+        width: 100%;
+        
+    }
+    .blocoleft-section14{
+       width: 100%;       
+       margin-right: 0;
+    
+    }
+}

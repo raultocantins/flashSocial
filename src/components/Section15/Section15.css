@@ -31,3 +31,18 @@
     color: #9b28ff;
     width: 100%;
 }
+
+@media (max-width:600px){
+    .section15{
+        height: auto;
+
+        flex-direction: column;
+    }
+    .bloco1-section15{
+        width: 100%;
+        
+    }
+    .section15 span{
+        font-size: 1.3rem;
+    }
+}

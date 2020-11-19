@@ -58,3 +58,34 @@ flex-wrap: wrap;
     flex-direction: column;
     
 }
+
+@media (max-width:600px){
+    .section16{
+        height: auto;
+        flex-wrap: wrap;
+    }
+    .bloco-section16{
+        width: 100%;
+        margin: 50px;
+        flex-wrap: wrap;
+    }
+    .box1-section16{
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+     
+    }
+    .img-box1-section16{
+        width: 100%;
+        height: 200px;
+    }
+    .text-box1-section16{
+        width: 100%;       
+        padding: 50px;
+    }
+ 
+    .section16 span{
+        font-size: 1.0rem;
+    }
+}

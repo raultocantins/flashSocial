@@ -6,7 +6,7 @@
    flex-direction: column;
     background: url("https://static.wixstatic.com/media/dba454_605f6528f2494b8d878ae6df1293b8ef~mv2.jpg/v1/fill/w_1007,h_372,al_c,q_85,usm_0.66_1.00_0.01/dba454_605f6528f2494b8d878ae6df1293b8ef~mv2.webp");
     background-size: cover;
-   overflow: hidden;
+ 
    
 }
 .text-section8{
@@ -36,6 +36,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
+    
    
     align-items: center;
 }
@@ -44,8 +45,9 @@
 
 @media(max-width:600px){
     .section8{
-        height: auto;
+        height: 900px;
         margin-top: 100px;
+       position: sticky;
     }
     .text-section8{
         width: 100%;
@@ -53,10 +55,7 @@
     .reactplayer {
     width: 100%!important;
     height: 100%!important;
-  visibility: hidden;
-  animation-name: open;
-  animation-duration: 2s;
-  animation-fill-mode: forwards;
+
     }
     .reactplayer iframe{        
         height: 300px!important;
@@ -76,13 +75,4 @@
     }
 }
 
-@keyframes open{
-    from{
-opacity: 0;
-visibility: hidden;
-    }
-    to{
-opacity: 1;
-visibility: visible;
-    }
-}
+  

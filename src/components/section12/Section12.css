@@ -192,3 +192,43 @@ margin-top: 280px;
 }
 
 
+@media (max-width:600px){
+    .section12{
+        height: auto;
+display: flex;
+position: relative;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+    }
+    .imgs-section12{
+        display: none;
+        
+    }
+    .bloco-facebook-section12,.bloco-instagram-section12,.bloco-youtube-section12,.bloco-tiktok-section12{
+        height: 200px;
+        width: 300px;
+      
+        margin: 0;
+        padding: 0;
+        position: unset;
+
+    }
+    .svg-arow-facebook,#svg-arow-tiktok,#svg-arow-youtube,#svg-arow-instagram{
+        display: none;
+    }
+    .bloco-section12{    
+        margin: 0;
+        padding:0;
+        width: 100%;       
+        position: absolute;        
+    }
+    .box-section12{
+     position: relative;
+       width: 100%;      
+     
+    }
+ 
+ 
+  
+}

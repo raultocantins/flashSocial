@@ -11,6 +11,7 @@ export default function Whatsapp(){
     
         <img src={Whats} alt="whats" />
       </a>
+      <span>Duvidas? Chame no WhatsApp</span>
         </section>
     )
 }
