@@ -39,7 +39,7 @@ export default function Section13() {
               do serviço, pagando por lotes. Cada lote, de cada serviço, possui
               um valor. Conheça alguns:
             </span>
-            <a href="/conhecer" className="btn-conhecer">
+            <a href="/signup" className="btn-conhecer">
               Conhecer todos os pacotes
             </a>
           </div>
@@ -71,7 +71,7 @@ export default function Section13() {
               >
                 90 REAIS
               </span>
-              <a href="https://flashsocial.net/painel/signup" className="btn-box">
+              <a href="/signup" className="btn-box">
                 Comprar
               </a>
             </div>
@@ -109,7 +109,7 @@ export default function Section13() {
               >
                 275 REAIS
               </span>
-              <a href="https://flashsocial.net/painel/signup" className="btn-box">
+              <a href="/signup" className="btn-box">
                 Comprar
               </a>
             </div>
@@ -146,7 +146,7 @@ export default function Section13() {
               >
                 54 REAIS
               </span>
-              <a href="https://flashsocial.net/painel/signup" className="btn-box">
+              <a href="/signup" className="btn-box">
                 Comprar
               </a>
             </div>
