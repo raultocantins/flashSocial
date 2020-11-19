@@ -1,5 +1,5 @@
 .section3{
-    height: 370px;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,7 +7,7 @@
 
 }
 .box-section3{
-    width: 80%;
+    width: 60%;
     display: flex;
     justify-content: center;
 }
