@@ -10,8 +10,8 @@ export default function Appbar() {
         </a>       
       </div>      
       <div className="group-buttons-appbar">
-        <a href="/sigin" id="login">Login</a>
-        <a href="/signup" id="comece">Começe Já</a>
+        <a href="/painel" id="login">Login</a>
+        <a href="/painel/signup" id="comece">Começe Já</a>
       </div>
     </section>
   );

@@ -6,7 +6,7 @@ export default function Section7() {
             <p>
                 COMPRE <strong>SEGUIDORES, CURTIDAS, COMENTÁRIOS, VISUALIZAÇÕES</strong> E MUITAS OUTRAS
         INTERAÇÕES. TUDO ISSO DE PESSOAS<strong> 100% REAIS.</strong>
-                <a href="/signup">Cadastrar</a>
+                <a href="/painel/signup">Cadastrar</a>
             </p>
         </section>
     )
