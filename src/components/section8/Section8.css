@@ -56,10 +56,13 @@
     .reactplayer {
     width: 100%!important;
     height: 100%!important;
+    -webkit-border-bottom-left-radius:10px;
+     -webkit-border-bottom-right-radius:10px;
 
     }
     .reactplayer iframe{        
         height: 300px!important;
+        
       
         }
         #player{

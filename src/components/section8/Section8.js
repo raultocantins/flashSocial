@@ -27,8 +27,7 @@ export default function Section8() {
 
 
             <ReactPlayer
-           controls={true}
-           volume={1}
+           controls={true}         
             className="reactplayer"
                 style={{ marginBottom: '30px' }}
                 url="https://www.youtube.com/watch?v=OBAXqWDC0n8&feature=emb_logo"
