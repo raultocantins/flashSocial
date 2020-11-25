@@ -1,9 +1,9 @@
 import React from "react";
 import "./Section13.css";
 
-import Facebook from "../../assets/icon2.png";
-import Instagram from "../../assets/icon3.png";
-import Youtube from "../../assets/icon5.png";
+import Facebook from "../../assets/icon2.webp";
+import Instagram from "../../assets/icon3.webp";
+import Youtube from "../../assets/icon5.webp";
 
 export default function Section13() {
   return (

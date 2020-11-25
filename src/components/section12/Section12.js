@@ -1,11 +1,11 @@
 import React from "react";
 import "./Section12.css";
-import Slash from "../../assets/slash.png";
-import Man from "../../assets/man.png";
-import Facebook from "../../assets/icon2.png";
-import Youtube from "../../assets/icon5.png";
-import Instagram from "../../assets/icon3.png";
-import Tiktok from "../../assets/icon1.png";
+import Slash from "../../assets/slash.webp";
+import Man from "../../assets/man.webp";
+import Facebook from "../../assets/icon2.webp";
+import Youtube from "../../assets/icon5.webp";
+import Instagram from "../../assets/icon3.webp";
+import Tiktok from "../../assets/icon1.webp";
 export default function Section12() {
   return (
     <section className="section12">

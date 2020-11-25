@@ -1,6 +1,6 @@
 import React from 'react'
 import './Section3.css'
-import Smartphone from '../../assets/smartphone.png'
+import Smartphone from '../../assets/smartphone.webp'
 export default function Section3() {
     return (
         <section className="section3">
