@@ -46,3 +46,14 @@
         font-size: 1.3rem;
     }
 }
+.bloco1-section15:hover,.bloco2-section15:hover,.bloco3-section15:hover{
+   transition: all ease 1s;
+   background-color: rgba(229, 217, 230, 0.288);
+  
+   box-shadow: inset -8px -8px 6px #ffff, 
+            inset 3px 3px 13px #9b28ff67;
+            border-radius: 15px;
+   
+
+    
+}

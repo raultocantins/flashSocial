@@ -1,5 +1,5 @@
 .section9{
-    height: 479px;
+    height: 485px;
     background-color: #fafafa;
     display: flex;
     justify-content: center;
@@ -11,19 +11,23 @@
     width: 25%;
     margin-right: 50px;
     text-align: center;
+    
 }
 .bloco2-section9{
     width: 25%;
     margin-right: 50px;
     text-align: center;
+  
 }
 .bloco3-section9{
     width: 25%;
     text-align: center;
+  
 }
 .text-section9{
     width: 100%;
-    
+    position: absolute;
+    margin-top: -400px;
 }
 .svg{
     width: 100%;
@@ -39,6 +43,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 @media (max-width:600px){
     .section9{
@@ -55,4 +60,22 @@ margin-top: 50px;
         .section9 span{
             font-size: 1.2rem;
         }
+}
+
+
+.bloco1-section9:hover,.bloco2-section9:hover,.bloco3-section9:hover{
+    transition: all ease 1s; 
+    
+  
+    box-shadow: inset 3px 3px 13px #ffff, 
+             inset 3px 3px 13px #9b28ff67;
+             border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;    
+    border-radius: 10px;
+ font-size: 26px;
+  
+
+  
+    
 }
