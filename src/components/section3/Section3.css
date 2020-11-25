@@ -61,29 +61,7 @@ rgba(15, 188, 113, 0.9) 10px
     background-color:rgba(153, 20, 20, 0.9);
     transition: all ease 0.2s;
 }
-.img-section3 img {
-    animation-name: smoll;
-    animation-duration: 2s;
-    
-    animation-fill-mode: forwards;
-}
-.img-section3:hover{
-    animation-name: smoll;
-    animation-duration: 1s;
-    animation-iteration-count: 1;
-}
 
-@keyframes smoll{
-    from{
-        opacity: 0;
-
-
-    }
-    to{
-        opacity: 1;
-
-    }
-}
 
 
 @media (max-width:600px){
