@@ -5,29 +5,47 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    margin-bottom: 25px;
     
 }
 .bloco1-section9{
     width: 25%;
     margin-right: 50px;
     text-align: center;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
     
 }
 .bloco2-section9{
     width: 25%;
     margin-right: 50px;
     text-align: center;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
   
 }
 .bloco3-section9{
     width: 25%;
     text-align: center;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
   
 }
 .text-section9{
     width: 100%;
-    position: absolute;
-    margin-top: -400px;
+  margin-bottom: 10px;
 }
 .svg{
     width: 100%;
@@ -64,16 +82,16 @@ margin-top: 50px;
 
 
 .bloco1-section9:hover,.bloco2-section9:hover,.bloco3-section9:hover{
-    transition: all ease 1s; 
+    transition: all ease 0.8s; 
     
   
     box-shadow: inset 3px 3px 13px #ffff, 
              inset 3px 3px 13px #9b28ff67;
              border-radius: 15px;
     
-    font-size: 20px;    
+     
     border-radius: 10px;
- font-size: 26px;
+
   
 
   

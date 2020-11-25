@@ -8,7 +8,7 @@
   width: 100%;
   top: 0;
   z-index: 99;
-  
+  border-bottom-color: 5px solid black;
 }
 .group-buttons-appbar{
     display: flex;
