@@ -8,9 +8,7 @@
     align-items: center;
    
 }
-.section1 strong{
-    font-size: 14px;
-}
+
 .section1 p {
     font-size: 14px;
 }
@@ -33,13 +31,11 @@
         text-align: center;
     }
    
-    .section1 p{
-        font-size: 1.1rem;      
+    .section1 span{
+        font-size: 1.3rem;      
       
     
         
     }
-    .section1 strong{
-        font-size: 1.1rem;    
-           }
+   
 }

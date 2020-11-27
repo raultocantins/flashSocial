@@ -8,19 +8,18 @@ export default function Section2() {
   return (
     <section className="section2">
       <div className="bloco-section2">
+ 
   
       <div className="container-section2">
         <div className="section2-text">
-          <span>
-            AUMENTE O <strong>ENGAJAMENTO</strong> DAS SUAS{" "}
+          <span >
+            AUMENTE O <strong>ENGAJAMENTO</strong> DO <strong>YOUTUBE</strong> E DAS SUAS{" "}
             <strong>REDES SOCIAIS</strong>
           </span>
           <span>
-            <strong>
-              CURTIDAS, SEGUIDORES, COMPARTILHAMENTOS E COMENTÁRIOS
-            </strong>{" "}
-            DE PESSOAS REAIS. AUMENTE A SUA PRESENÇA EM{" "}
-            <strong>TODAS AS REDES SOCIAIS</strong>.{" "}
+           <strong >
+           SOMOS A PLATAFORMA DE MARKETING DIGITAL MAIS COMPLETA DO BRASIL, COM SERVIÇOS PARA TODAS AS REDES SOCIAIS.
+           </strong>
           </span>
           <svg
             preserveAspectRatio="xMidYMid meet"

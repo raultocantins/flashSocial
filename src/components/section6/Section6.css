@@ -98,6 +98,7 @@ opacity: 1;
        display: flex;
        justify-content: center;
        align-items: center;
+       margin-bottom: 100px;
        
     }
     .bloco-section6{
@@ -109,7 +110,7 @@ opacity: 1;
     .fundo-section6{
         position: relative;
       
-margin: 0px;
+margin: 0px 0px 0px 0px;
     }
     .group-midias{
         display: none;
@@ -136,12 +137,15 @@ margin: 0px;
     }
     .girl-section6{
 width: 100%;
-       margin: 0;
+       margin: -50px 0px 0px 0px;
     }
 .imgs-section6{
     display: flex;
     justify-content: center;
 flex-direction: column;
     width: 100%;
+}
+.text-center-section6 h2 {
+    margin-top: 30px!important;
 }
 }

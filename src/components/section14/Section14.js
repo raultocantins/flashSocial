@@ -14,10 +14,10 @@ export default function Section16() {
           <img src={Notebook} alt="fundo-section-16" />
         </div>
         <div className="blocoright-section14">
-          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "bold" }}>
+          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
             01
           </span>
-          <span style={{ fontSize: "15px", color: "#fff",fontWeight:'bold'}}>
+          <span style={{ fontSize: "15px", color: "#fff",fontWeight:'1000'}}>
             ESCOLHA O SERVIÇO E A QUANTIDADE DESEJADA
           </span>
           <svg
@@ -39,10 +39,10 @@ export default function Section16() {
             </g>
           </svg>
 
-          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "bold" }}>
+          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
             02
           </span>
-          <span style={{ fontSize: "15px", color: "#fff", fontWeight:'bold' }}>
+          <span style={{ fontSize: "15px", color: "#fff", fontWeight:'1000' }}>
             ADICIONE CRÉDITO NA PLATAFORMA
           </span>
           <svg
@@ -64,10 +64,10 @@ export default function Section16() {
             </g>
           </svg>
 
-          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "bold" }}>
+          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
             03
           </span>
-          <span style={{ fontSize: "15px", color: "#fff", fontWeight:'bold'}}>
+          <span style={{ fontSize: "15px", color: "#fff", fontWeight:'1000 '}}>
             FINALIZE A COMPRA E RECEBA SUAS INTERAÇÕES
           </span>
         </div>

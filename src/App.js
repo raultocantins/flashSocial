@@ -33,12 +33,10 @@ function App() {
  <Section5/>
  <Section6/>
  <Section7/>
- <Section8/>
  <Section9/>
  <Section10/>
  <Section12/>
- <Section11/>
- <Section13/>
+ <Section11/> 
   <Section14/> 
  <Section15/>
   <Section16/>

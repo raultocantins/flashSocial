@@ -23,7 +23,9 @@ export default function Section5() {
                     <strong style={{ fontSize: '49px', color: "#8b28ff" }}>REAIS</strong>
                 </h2>
                 <span>
-                    <strong>Usamos perfis 100% de pessoas reais e por isso nunca seremos banidos.</strong> Isso significa que o número de curtidas, comentários, visualizações, seguidores que entregamos em sua conta, nunca diminuirá e <strong>você pode ter certeza de que se tornará ainda mais popular</strong> com o passar do tempo.
+                    <strong>Criamos campanhas de aquisição</strong> nas redes sociais e YouTube, atingindo o público correto e trazendo usuários reais para o seu canal ou rede social. <br></br><br></br>
+ 
+ Isso significa que o número de curtidas, comentários, visualizações, seguidores são de usuários reais.
                     </span>
 
             </div>

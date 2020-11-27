@@ -15,7 +15,7 @@
 .section2-text {
   position: relative;
   margin-top: 100px;
-  width: 80%;
+  width: 1000px;
   color: #fff;
   flex-wrap: wrap;
   display: flex;
@@ -23,7 +23,7 @@
   align-items: center;
   text-align: left;
   z-index: 5;
-  margin-right: 50px;
+  
   
 }
 .section2-imgs {
@@ -40,8 +40,9 @@
   font-weight: 500px;
   margin-top: 15px;
   color: #fff;
-  font-size: 14px;
-}
+  font-size: 18px;
+ 
+  }
 
 .svg-mouse {
   height: 50px;
@@ -74,7 +75,7 @@ position: absolute;
   z-index: 0;
   width: 600px;
   height: 480px;    
-    margin-left: -50px;
+    margin-left: -0px;
    
 }
 
@@ -85,6 +86,7 @@ position: absolute;
 @media (max-width:600px){
   .section2{
     height: auto;
+  
   }
   .bloco-section2{
      position: relative;
@@ -103,5 +105,18 @@ position: absolute;
   .img-girl2{
     margin: 0px;
   }
+  .section2-text:nth-child(1){
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-top: 30px;
+  }
+  .img-fundo { 
+       
+        margin-left: -100px;
+       
+    }
+
+
   
 }

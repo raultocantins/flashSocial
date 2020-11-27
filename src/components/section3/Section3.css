@@ -3,11 +3,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-   
+
 
 }
 .box-section3{
-    width: 60%;
+    width: 70%;
     display: flex;
     justify-content: center;
 }
@@ -68,6 +68,7 @@ rgba(15, 188, 113, 0.9) 10px
     .section3{
 height: auto;
 margin-bottom: 100px;
+margin-top: 50px; 
     }
     .box-section3{
         flex-direction: column;
