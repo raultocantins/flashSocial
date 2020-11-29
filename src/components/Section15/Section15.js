@@ -1,8 +1,8 @@
 import React from 'react'
 import './Section15.css'
-import User4 from '../../assets/4.webp'
-import User3 from '../../assets/3.webp'
-import User2 from '../../assets/2.webp'
+import User4 from '../../assets/4.jpg'
+import User3 from '../../assets/3.jpg'
+import User2 from '../../assets/2.jpg'
 export default function Section15() {
     return (
         <section className="section15">

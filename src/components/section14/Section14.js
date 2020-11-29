@@ -1,7 +1,7 @@
 import React from "react";
 import "./Section14.css";
-import Notebook from "../../assets/notebook.webp";
-import Fundo16 from "../../assets/fundo.webp";
+import Notebook from "../../assets/notebook.jpg";
+import Fundo16 from "../../assets/fundo.jpg";
 export default function Section16() {
   return (
     <section className="section14">

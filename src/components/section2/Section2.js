@@ -1,8 +1,8 @@
 import React from "react";
 import "./Section2.css";
 //importe imgs
-import Fundo from "../../assets/fundo.webp";
-import Girl2 from "../../assets/girl2.webp";
+import Fundo from "../../assets/fundo.jpg";
+import Girl2 from "../../assets/girl2.jpg";
 
 export default function Section2() {
   return (

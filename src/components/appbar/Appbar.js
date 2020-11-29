@@ -1,6 +1,6 @@
 import React from "react";
 import "./Appbar.css";
-import ImgAppbar from "../../assets/Logo_Flash_Social.webp";
+import ImgAppbar from "../../assets/Logo_Flash_Social.jpg";
 
 export default function Appbar() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import Whats from "../../assets/whats.webp";
+import Whats from "../../assets/whats.jpg";
 import './Whats.css'
 export default function Whatsapp(){
     return(

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Section16.css";
-import Logo from "../../assets/Logo_Flash_Social.webp";
+import Logo from "../../assets/Logo_Flash_Social.jpg";
 
 export default function Section16() {
   return (
