@@ -26,7 +26,7 @@ export default function Section6() {
 </span>
                 <h2 style={{ color: "#8b28ff", fontWeight: "700", fontSize: '45px', margin: '0px 0px 50px 0px' }}>
                     IMPULSIONAR</h2>
-                <span style={{ fontSize: "17px",fontWeight:'500'}}>
+                <span style={{ fontSize: "18px",fontWeight:'500'}}>
 
                     É um processo <strong>
                         totalmente  legal  </strong>e <strong>100% seguro</strong>.

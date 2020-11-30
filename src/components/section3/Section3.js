@@ -15,7 +15,7 @@ export default function Section3() {
               COMPLETA DE <strong>IMPULSIONAMENTO</strong> PARA MARKETING
               DIGITAL
             </span>
-            <span style={{ textAlign: "left" }}>
+            <span style={{ textAlign: "left",fontSize:'18px' }}>
               {" "}
               Quer você seja um{" "}
               <strong>
