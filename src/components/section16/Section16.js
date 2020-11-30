@@ -56,7 +56,7 @@ export default function Section16() {
 
           <span>
             Devemos afirmar com certeza que, a Flash Social ,
-            <strong> não está usando ferramentas artificiais</strong>ao fornecer
+            <strong> não está usando ferramentas artificiais </strong>ao fornecer
             esses serviços. Todos os serviços que vendemos na Flash Social são
             fornecidos por meio de pessoas reais de forma legal.{" "}
           </span>
