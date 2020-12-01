@@ -63,11 +63,13 @@ flex-wrap: wrap;
     .section16{
         height: auto;
         flex-wrap: wrap;
+        
     }
     .bloco-section16{
         width: 100%;
         margin: 50px;
         flex-wrap: wrap;
+        
     }
     .box1-section16{
         flex-direction: column;
@@ -83,6 +85,7 @@ flex-wrap: wrap;
     .text-box1-section16{
         width: 100%;       
         padding: 50px;
+        margin-top: 0px;
     }
  
     .section16 span{

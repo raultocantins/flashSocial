@@ -101,7 +101,13 @@ position: absolute;
   }
   .section2-text{
     margin: 0px;
+    
   }
+  .section2-text span:nth-child(2) {
+   
+    font-size:1.5rem !important;
+   
+    }
   .img-girl2{
     margin: 0px;
   }
@@ -110,6 +116,7 @@ position: absolute;
     flex-wrap: wrap;
     width: 90%;
     margin-top: 30px;
+    
   }
   .img-fundo { 
        

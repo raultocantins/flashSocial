@@ -64,7 +64,7 @@ margin-top: 30px;
 }
 @media (max-width:600px){
     .section14{
-        height:800px;
+        height:1050px;
  margin-top: 300px;
 
     }
@@ -97,5 +97,12 @@ margin-top: 30px;
        width: 100%;       
        margin-right: 0;
     
+    }
+    .blocoright-section14 span{
+        font-size: 1.5rem !important;
+    }
+
+    #span1,#span2,#span3{
+        font-size: 44px!important;
     }
 }

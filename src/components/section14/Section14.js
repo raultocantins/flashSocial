@@ -14,7 +14,7 @@ export default function Section16() {
           <img src={Notebook} alt="fundo-section-16" />
         </div>
         <div className="blocoright-section14">
-          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
+          <span id="span1" style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
             01
           </span>
           <span style={{ fontSize: "15px", color: "#fff",fontWeight:'1000'}}>
@@ -39,7 +39,7 @@ export default function Section16() {
             </g>
           </svg>
 
-          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
+          <span id="span2"style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
             02
           </span>
           <span style={{ fontSize: "15px", color: "#fff", fontWeight:'1000' }}>
@@ -64,7 +64,7 @@ export default function Section16() {
             </g>
           </svg>
 
-          <span style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
+          <span id="span3" style={{ fontSize: "44px", color: "#fff", fontWeight: "1000" }}>
             03
           </span>
           <span style={{ fontSize: "15px", color: "#fff", fontWeight:'1000 '}}>
