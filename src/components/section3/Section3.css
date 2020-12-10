@@ -116,8 +116,9 @@ margin-top: 50px;
 .btn-section3 {   
   padding: 20px;
   width: 160px;
- text-align: top!important;
-  
+ align-items: center;
+ justify-content: center;
+  display: flex;
 }
 .text-box span:nth-child(2){
     font-size: 1.5rem !important;
