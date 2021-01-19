@@ -38,6 +38,17 @@
 
 @media(max-width:600px){
     .section7{
-        display: none;
+        height:auto;
+        position: relative;
+        z-index: 56;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+       padding-bottom: 10px;
+    }
+    .section7 p{
+       padding: 5px;
+       margin: 5px;
     }
 }

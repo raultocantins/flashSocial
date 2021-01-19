@@ -78,7 +78,43 @@ animation-name: slow;
 animation-duration: 2s;
 animation-fill-mode: forwards;
 }
+.blockRegister{
+    margin-top: 70px;
+    height: 50px;
+    background-color: #2b2b24;
+    color:#fff;
+    display: none;
+    justify-content: center;
+    align-items: center;
+   
+}
+.blockRegister strong{
+    font-size: 18px;
+}
+.blockRegister p {
+    font-size: 18px;
+}
+.blockRegister  a{
+    height: 20px;
+    background: repeating-linear-gradient(
+        45deg,
+        rgba(15, 188, 113, 0.575) ,
+        rgba(15, 188, 113, 0.9) 10px
+        ); 
+    border-radius: 50px;
+    margin: 10px;
+    color: #fff;
+    padding: 8px 50px;    
+    outline: none;
+    text-decoration: none;
+    width: 142px;
+    font-weight: 500;   
 
+}
+.blockRegister a:hover{
+    background-color:rgba(153, 20, 20, 0.9);
+    transition: all ease 0.2s;
+}
 
 
 
@@ -147,5 +183,19 @@ flex-direction: column;
 }
 .text-center-section6 h2 {
     margin-top: 30px!important;
+}
+.blockRegister{
+    height:auto;
+    position: relative;
+    z-index: 56;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   padding-bottom: 10px;
+}
+.blockRegister p{
+   padding: 5px;
+   margin: 5px;
 }
 }
