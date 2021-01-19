@@ -14,9 +14,15 @@
          animation-iteration-count: infinite;  
     
 }
+.whatsapp img:hover{
+    height: 86px;
+    width: 86px;       
+    transition: all 0.2s;
+}
 .whatsapp span{
     display: none;
 }
+
 @media (max-width:600px){
     .whatsapp{
         right: 0;
